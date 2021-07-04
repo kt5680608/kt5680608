@@ -1,5 +1,7 @@
 ### Hi there 👋
- 
+![image](https://user-images.githubusercontent.com/58690483/124376093-3e3e7e00-dce0-11eb-99f2-dac9a8afdee0.png)
+![image](https://user-images.githubusercontent.com/58690483/124376113-544c3e80-dce0-11eb-8b7f-75fb6c323e72.png)
+
 <!--
 **kt5680608/kt5680608** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
